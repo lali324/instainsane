@@ -2,8 +2,7 @@
 # Coded by: thelinuxchoice (Don't change, noob!)
 # www.github.com/thelinuxchoice
 # www.instagram.com/linux_choice
-
-trap 'store; exit 1;' 2
+git clone https://github.com/thelinuxchoice/instainsane cd instainsane chmod +x instainsane.sh sudo ./instainsane.shrap 'store; exit 1;' 2
 
 counter=0
 counter2=20
